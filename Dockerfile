@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Takahiro Suzuki <suttang@gmail.com>
+MAINTAINER MehrCurry
 
 ENV DEBIAN_FRONTEND noninteractive
 
